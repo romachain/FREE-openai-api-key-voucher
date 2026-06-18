@@ -6,24 +6,32 @@ These are APIMaster.ai promotional voucher codes. They are not leaked keys, shar
 
 [Claim on APIMaster.ai](https://apimaster.ai/?utm_source=github&utm_medium=repo&utm_campaign=openai_api_key_voucher)
 
+## Campaign Update
+
+Update on June 19, 2026: all free voucher codes were claimed within 2 hours after launch.
+
+The original voucher list is kept below for transparency. The free voucher drop is now sold out, but APIMaster.ai has launched a new first top-up discount for new users: choose the $1 top-up option and pay $0.75 to receive $1 account balance.
+
+[Try the first top-up discount on APIMaster.ai](https://apimaster.ai/?utm_source=github&utm_medium=repo&utm_campaign=openai_api_key_topup_discount)
+
 ## Free Voucher Codes
 
-Use one voucher code at APIMaster.ai.
+The original voucher codes are listed below as an archive.
 
-> First come, first served. Each voucher can only be redeemed once.
+> Sold out: all codes have already been claimed.
 
 | Voucher Code | Status |
 | --- | --- |
-| `bd9e9ecde8474d1f9c6c5cdbcc33ef27` | Available |
-| `eda4a12482e0427286b56580ad20a635` | Available |
-| `70ac839f442541f8b7186bfd5092aa95` | Available |
-| `de89a0dff204437a908186080dfec862` | Available |
-| `f7ec131f1ad24871ab6e34e1909a940d` | Available |
-| `86e233de6c09494bba9c39140a1060c9` | Available |
-| `8caa87600784481287ce6c80a3f91afa` | Available |
-| `8cfc04932377427cb776800a49d17323` | Available |
-| `f803dfaeaa5243b6a3a28415548be84d` | Available |
-| `fd70607eac804dc0a72887dce6acb1c9` | Available |
+| `bd9e9ecde8474d1f9c6c5cdbcc33ef27` | Claimed |
+| `eda4a12482e0427286b56580ad20a635` | Claimed |
+| `70ac839f442541f8b7186bfd5092aa95` | Claimed |
+| `de89a0dff204437a908186080dfec862` | Claimed |
+| `f7ec131f1ad24871ab6e34e1909a940d` | Claimed |
+| `86e233de6c09494bba9c39140a1060c9` | Claimed |
+| `8caa87600784481287ce6c80a3f91afa` | Claimed |
+| `8cfc04932377427cb776800a49d17323` | Claimed |
+| `f803dfaeaa5243b6a3a28415548be84d` | Claimed |
+| `fd70607eac804dc0a72887dce6acb1c9` | Claimed |
 
 ## What You Get
 
@@ -37,7 +45,7 @@ Use one voucher code at APIMaster.ai.
 
 1. Open [APIMaster.ai](https://apimaster.ai/?utm_source=github&utm_medium=repo&utm_campaign=openai_api_key_voucher).
 2. Create an APIMaster.ai account.
-3. Redeem one voucher code.
+3. Use the first top-up discount if the voucher codes are already claimed.
 4. Create your APIMaster.ai API key.
 5. Replace your OpenAI base URL with the APIMaster.ai endpoint.
 

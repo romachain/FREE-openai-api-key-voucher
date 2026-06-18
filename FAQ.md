@@ -10,7 +10,9 @@ No. This repository is not affiliated with OpenAI.
 
 ## How do I redeem a voucher?
 
-Open APIMaster.ai, create an account, and enter one voucher code in the voucher or credits redemption flow.
+The original free voucher drop is sold out. It was fully claimed within 2 hours after launch on June 18, 2026.
+
+You can still open APIMaster.ai, create an account, and use the first top-up discount for new users.
 
 ## Why does the project mention "OpenAI API key"?
 
@@ -18,7 +20,7 @@ Many developers search for OpenAI API key access when they need an OpenAI-compat
 
 ## What if a voucher has already been used?
 
-Each voucher can be redeemed once. If a voucher is already used, try another code from the list.
+All public voucher codes have already been claimed. APIMaster.ai currently offers a first top-up discount for new users.
 
 ## Can I use the OpenAI SDK?
 
